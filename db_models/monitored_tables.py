@@ -1,0 +1,4 @@
+from db_models.content.configuration_table import table_content as configurations_table_content
+from db_models.tables.configuration_table import ConfigurationsTable
+
+MONITORED_TABLES = {ConfigurationsTable: configurations_table_content}
