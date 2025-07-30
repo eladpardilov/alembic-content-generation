@@ -1,0 +1,1 @@
+# alembic-content-generation
